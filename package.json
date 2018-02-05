@@ -1,0 +1,22 @@
+{
+  "name": "gopher-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naked-mole-rat/gopher-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naked-mole-rat/gopher-framework/issues"
+  },
+  "homepage": "https://github.com/naked-mole-rat/gopher-framework#readme",
+  "dependencies": {
+    "gopher-protocol": "git+ssh://git@github.com/naked-mole-rat/gopher-protocol.git"
+  }
+}
